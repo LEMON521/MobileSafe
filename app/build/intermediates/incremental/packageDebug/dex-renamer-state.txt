@@ -1,0 +1,7 @@
+#Tue Nov 08 14:58:14 CST 2016
+base.0=/Volumes/靳宁宁/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a04fff82e6d2c6e2cb50162380676bba03bea944
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Volumes/靳宁宁/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f23e146ea14f0a6d81f351b00137e977f6e04708/classes.dex
+base.1=/Volumes/靳宁宁/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f23e146ea14f0a6d81f351b00137e977f6e04708
+file.0=/Volumes/靳宁宁/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a04fff82e6d2c6e2cb50162380676bba03bea944/classes.dex

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        style="@style/text_title_style"
+        android:text="4.设置防盗保护" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+
+        android:text="是否开启防盗保护:"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+    <CheckBox
+        android:id="@+id/cb_safe_openAdminDevice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="激活设备管理器\n如果不激活设备管理器,那么就无法开启安全防护" />
+    <CheckBox
+        android:id="@+id/cb_safe_ischeck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开启" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_invisible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/presence_online" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        >
+
+        <!--上一步,下一步.按钮-->
+        <Button style="@style/btn_previous" />
+
+        <Button
+            style="@style/btn_next"
+            android:text="设置完成" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

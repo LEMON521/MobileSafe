@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ajohn.mobilesafe"
+    android:versionCode="1"
+    android:versionName="0.0.1">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="14" />
+
+    <!--联网权限-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--SD卡写入权限-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--读取电话设备状态-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!--开机启动权限-->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!--读取联系人(数据库)权限-->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!--发送短信权限-->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!--接收短信权限-->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <!--获取大致方位权限-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!--获取精确方位权限-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!--震动权限-->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!--来电权限-->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <!--允许安装和卸载可移动存储的文件系统。在录音的时候需要-->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!--允许应用程序录制音频。-->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!--允许应用程序监听去电号码。-->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <!--缓冲页面-->
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--主页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.HomeActivity" />
+        <!--************************************************************************************-->
+        <!--设置页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.SettingActivity" />
+        <!--************************************************************************************-->
+        <!--安全(防盗)设置页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.SafeActivity" />
+        <!--安全(防盗)设置步骤页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep1Activity" />
+        <activity android:name="com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep2Activity" />
+        <activity android:name="com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep3Activity" />
+        <activity android:name="com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep4Activity" />
+        <!--设备管理器页面-代码实现了锁屏,设置锁屏密码,删除数据-->
+        <activity android:name="com.ajohn.mobilesafe.activities.safeactivities.LockScreenActivity" />
+
+        <!--获取联系人页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.safeactivities.SafeSelectContactActivity" />
+
+
+        <!--************************************************************************************-->
+        <!--通讯卫士页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.conmunicationactivities.ManageBlackNumberActivity"
+            android:theme="@android:style/Theme.Dialog"
+            />
+
+
+        <!--************************************************************************************-->
+        <!--高级工具页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.AdvanceToolsActivity" />
+
+        <!--查询地址页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.toolsactivities.QueryAddressToolsActivity" />
+
+        <!--改变自定义Toast位置页面-->
+        <activity android:name="com.ajohn.mobilesafe.activities.toolsactivities.ChangePositionToolsActivity" />
+        <!--************************************************************************************-->
+
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <!--开机启动接收者-->
+        <receiver android:name=".service.BootCompeledService">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <!--sim卡状态接收者-->
+        <receiver android:name="com.ajohn.mobilesafe.receiver.SimStateChangeReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+        <!--短信监听接收者-->
+        <receiver android:name="com.ajohn.mobilesafe.receiver.SmsListenerReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <!--TODO 去电广播接收  我们已经通过代码注册了,所以清单文件不必再注册-->
+        <!--电话监听接收者-->
+        <!--<receiver android:name="com.ajohn.mobilesafe.receiver.TelephonyReceiver">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.NEW_OUTGOING_CALL" />-->
+            <!--</intent-filter>-->
+        <!--</receiver>-->
+
+
+        <!--设备管理器的广播接收者-->
+        <receiver
+            android:name="com.ajohn.mobilesafe.receiver.AdminReceiver"
+            android:description="@string/safe_device_admin_description"
+            android:label="@string/safe_device_admin"
+            android:permission="android.permission.BIND_DEVICE_ADMIN">
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/device_admin" />
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+            </intent-filter>
+        </receiver>
+        <!--GPS获取位置信息服务-->
+        <service android:name=".service.GpsLocationService" />
+
+        <!--来电-->
+        <service android:name=".service.CallingStatusService" />
+
+
+
+
+    </application>
+
+</manifest>

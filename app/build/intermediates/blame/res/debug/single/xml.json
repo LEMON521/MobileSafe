@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/xml/device_admin.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/xml/device_admin.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/xml/device_admin.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/xml/device_admin.xml"
+    }
+]

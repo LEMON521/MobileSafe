@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileSafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="safe_device_admin">开启安全服务</string>
+    <string name="safe_device_admin_description">想要开启安全服务,必须激活该选项</string>
+
+</resources>

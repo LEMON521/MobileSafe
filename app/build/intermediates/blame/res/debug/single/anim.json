@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_next_out.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/anim/tran_next_out.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_previous_out.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/anim/tran_previous_out.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_next_in.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/anim/tran_next_in.xml"
+    },
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/anim/shake_y.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/anim/shake_y.xml"
+    },
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_next_out.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/anim/tran_next_out.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/anim/shake_y.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/anim/shake_y.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/anim/cycle_7.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/anim/cycle_7.xml"
+    },
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_previous_in.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/anim/tran_previous_in.xml"
+    },
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_next_in.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/anim/tran_next_in.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_previous_in.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/anim/tran_previous_in.xml"
+    },
+    {
+        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/anim/tran_previous_out.xml",
+        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/anim/tran_previous_out.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/anim/cycle_7.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/anim/cycle_7.xml"
+    }
+]

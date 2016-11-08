@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#8066ff00"
+        android:gravity="center"
+        android:text="高级工具"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_tools_queryaddress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_menu_camera"
+        android:gravity="center_vertical"
+        android:text="查询号码归属地"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <com.ajohn.mobilesafe.view.CustomwedgitTTIView
+        android:id="@+id/cwv_tti_tools_setbackground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <com.ajohn.mobilesafe.view.CustomwedgitTTIView
+        android:id="@+id/cwv_tti_tools_setposition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+</LinearLayout>
