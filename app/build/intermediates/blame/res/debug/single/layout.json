@@ -1,23 +1,11 @@
 [
     {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_tti.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_tti.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_black.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_black.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_setting.xml"
-    },
-    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_ttc.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_ttc.xml"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_black.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_black.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep3.xml",
@@ -44,28 +32,12 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools_changeposition.xml"
     },
     {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep2.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safesetstep2.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_home.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools_queryaddress.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools_queryaddress.xml"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/appmanager_showappinfo_items.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/appmanager_showappinfo_items.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools.xml",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_simple_lockscreen.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_simple_lockscreen.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/black_lv_blacknum_items.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/black_lv_blacknum_items.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep1.xml",
@@ -82,6 +54,42 @@
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safe.xml",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safe.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_tti.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_tti.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_appmanager.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_appmanager.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_ttc.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_ttc.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep2.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safesetstep2.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools_queryaddress.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools_queryaddress.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_simple_lockscreen.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_simple_lockscreen.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/black_lv_blacknum_items.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/black_lv_blacknum_items.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_teebb.xml",

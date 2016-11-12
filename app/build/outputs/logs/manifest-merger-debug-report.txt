@@ -6,232 +6,238 @@ ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidMa
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:5:5-32
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:6:5-32
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:4:5-28
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:5:5-28
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:4:5-45
 uses-sdk
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.0.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:9:9-38
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:10:9-38
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:9:9-35
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:12:5-67
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:12:22-64
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:13:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:14:5-81
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:14:22-78
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:15:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:16:5-75
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:17:5-75
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:16:22-72
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:17:22-72
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:18:5-81
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:18:22-78
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:19:22-78
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:20:5-72
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:21:5-72
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:20:22-69
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:21:22-69
 uses-permission#android.permission.SEND_SMS
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:22:5-67
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:22:22-64
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:23:22-64
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:24:5-70
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:25:5-70
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:24:22-67
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:25:22-67
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:26:5-81
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:27:5-81
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:26:22-78
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:27:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:28:5-79
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:29:5-79
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:28:22-76
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:29:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:30:5-66
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:31:5-66
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:30:22-63
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:31:22-63
 uses-permission#android.permission.PROCESS_OUTGOING_CALLS
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:32:5-81
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:33:5-81
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:32:22-78
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:33:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:34:5-84
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:35:5-84
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:34:22-81
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:35:22-81
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:36:5-71
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:37:5-71
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:36:22-68
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:37:22-68
 uses-permission#android.permission.READ_SMS
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:40:5-66
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:41:5-67
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:40:22-64
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:41:22-64
 application
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:43:5-152:19
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:44:5-152:19
 MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.0.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:46:9-41
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:47:9-41
 	android:allowBackup
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:44:9-35
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:45:9-35
 	android:icon
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:45:9-45
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:46:9-45
 	android:theme
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:47:9-40
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:48:9-40
 activity#com.ajohn.mobilesafe.SplashActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:49:9-57:20
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:50:9-58:20
 	android:label
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:51:13-45
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:52:13-45
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:50:13-43
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:51:13-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:52:13-56:29
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:53:13-57:29
 action#android.intent.action.MAIN
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:53:17-69
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:54:17-69
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:53:25-66
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:54:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:55:17-77
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:56:17-77
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:55:27-74
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:56:27-74
 activity#com.ajohn.mobilesafe.activities.HomeActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:59:9-81
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:60:9-81
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:59:19-78
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:60:19-78
 activity#com.ajohn.mobilesafe.activities.SettingActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:62:9-84
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:63:9-84
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:62:19-81
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:63:19-81
 activity#com.ajohn.mobilesafe.activities.SafeActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:65:9-81
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:66:9-81
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:65:19-78
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:66:19-78
 activity#com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep1Activity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:67:9-104
-	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:67:19-101
-activity#com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep2Activity
 ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:68:9-104
 	android:name
 		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:68:19-101
-activity#com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep3Activity
+activity#com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep2Activity
 ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:69:9-104
 	android:name
 		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:69:19-101
-activity#com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep4Activity
+activity#com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep3Activity
 ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:70:9-104
 	android:name
 		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:70:19-101
+activity#com.ajohn.mobilesafe.activities.safeactivities.SetSafeStep4Activity
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:71:9-104
+	android:name
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:71:19-101
 activity#com.ajohn.mobilesafe.activities.safeactivities.LockScreenActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:72:9-102
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:73:9-102
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:72:19-99
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:73:19-99
 activity#com.ajohn.mobilesafe.activities.safeactivities.SafeSelectContactActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:75:9-109
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:76:9-109
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:75:19-106
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:76:19-106
 activity#com.ajohn.mobilesafe.activities.conmunicationactivities.ManageBlackNumberActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:80:9-82:15
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:81:9-83:59
 	android:theme
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:81:13-56
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:83:13-56
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:80:19-115
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:82:13-109
+activity#com.ajohn.mobilesafe.activities.appmanageractivity.AppManagerActivity
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:86:9-86
+	android:name
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:86:19-83
 activity#com.ajohn.mobilesafe.activities.AdvanceToolsActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:87:9-89
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:90:9-89
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:87:19-86
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:90:19-86
 activity#com.ajohn.mobilesafe.activities.toolsactivities.QueryAddressToolsActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:90:9-110
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:93:9-110
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:90:19-107
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:93:19-107
 activity#com.ajohn.mobilesafe.activities.toolsactivities.ChangePositionToolsActivity
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:93:9-112
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:96:9-112
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:93:19-109
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:96:19-109
 meta-data#com.google.android.gms.version
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:98:9-100:69
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:101:9-103:69
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:100:13-66
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:103:13-66
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:99:13-58
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:102:13-58
 receiver#com.ajohn.mobilesafe.service.BootCompeledService
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:102:9-106:20
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:105:9-109:20
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:102:19-62
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:105:19-62
 intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:103:13-105:29
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:106:13-108:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:104:17-79
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:107:17-79
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:104:25-76
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:107:25-76
 receiver#com.ajohn.mobilesafe.receiver.SimStateChangeReceiver
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:108:9-112:20
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:111:9-115:20
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:108:19-86
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:111:19-86
 intent-filter#android.intent.action.PHONE_STATE
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:109:13-111:29
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:112:13-114:29
 action#android.intent.action.PHONE_STATE
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:110:17-76
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:113:17-76
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:110:25-73
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:113:25-73
 receiver#com.ajohn.mobilesafe.receiver.SmsListenerReceiver
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:114:9-118:20
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:117:9-121:20
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:114:19-83
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:117:19-83
 intent-filter#android.provider.Telephony.SMS_RECEIVED
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:115:13-117:29
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:118:13-120:29
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:116:17-82
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:119:17-82
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:116:25-79
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:119:25-79
 receiver#com.ajohn.mobilesafe.receiver.AdminReceiver
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:130:9-141:20
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:133:9-144:20
 	android:label
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:133:13-54
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:136:13-54
 	android:permission
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:134:13-70
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:137:13-70
 	android:description
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:132:13-72
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:135:13-72
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:131:13-71
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:134:13-71
 meta-data#android.app.device_admin
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:135:13-137:56
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:138:13-140:56
 	android:resource
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:137:17-53
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:140:17-53
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:136:17-56
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:139:17-56
 intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:138:13-140:29
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:141:13-143:29
 action#android.app.action.DEVICE_ADMIN_ENABLED
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:139:17-82
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:142:17-82
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:139:25-79
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:142:25-79
 service#com.ajohn.mobilesafe.service.GpsLocationService
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:143:9-63
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:146:9-63
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:143:18-60
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:146:18-60
 service#com.ajohn.mobilesafe.service.CallingStatusService
-ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:146:9-65
+ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:149:9-65
 	android:name
-		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:146:18-62
+		ADDED from /Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/AndroidManifest.xml:149:18-62

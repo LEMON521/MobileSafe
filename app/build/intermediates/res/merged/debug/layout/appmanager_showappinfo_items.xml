@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_appmanager_showappitems_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/main_clean_icon" />
+
+    <TextView
+        android:id="@+id/tv_appmanager_showappitems_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/iv_appmanager_showappitems_icon"
+        android:text="程序名称"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_appmanager_showappitems_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_appmanager_showappitems_name"
+        android:layout_toRightOf="@id/iv_appmanager_showappitems_icon"
+        android:text="程序储存位置"
+        android:textColor="#98000000"
+        android:textSize="15sp" />
+
+
+
+    <!--android:layout_toLeftOf="@id/btn_appmanager_showappitems_uninstall"-->
+
+    <Button
+        android:id="@+id/btn_appmanager_showappitems_uninstall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:text="卸载" />
+</RelativeLayout>

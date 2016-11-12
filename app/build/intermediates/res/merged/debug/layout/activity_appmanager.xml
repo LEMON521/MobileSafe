@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_appmanamger_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#8066ff00"
+        android:gravity="center"
+        android:text="应用管理"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_appmanamger_ram"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="可用内存空间大小：10G"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_appmanamger_sdcard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="可用SD卡空间大小：120G"
+            android:textSize="15sp" />
+
+
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/lv_appmanager_info"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </ListView>
+
+        <LinearLayout
+            android:id="@+id/ll_appmanager_loading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="正在给力加载中，请稍等..." />
+        </LinearLayout>
+
+        <TextView
+            android:alpha="100"
+            android:id="@+id/tv_appmanager_showtype"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ff888888"
+            android:text="应用程序个数"
+            android:textColor="#FFFFFF" />
+    </FrameLayout>
+
+
+
+
+</LinearLayout>
