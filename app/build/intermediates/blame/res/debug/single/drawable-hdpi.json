@@ -1,35 +1,23 @@
 [
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_orange.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_orange.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/previous.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/previous.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/settings.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/jiantou_pressed.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/jiantou_pressed.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/sysoptimize.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/sysoptimize.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png",
@@ -40,20 +28,12 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/trojan.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/trojan.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/safe.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/safe.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_gray.png",
@@ -72,236 +52,24 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/app.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/atools.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/atools.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png"
-    },
-    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_orange.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_orange.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_green.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_green.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_ic_googleplayservices.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_ic_googleplayservices.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_green.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_green.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/jiantou_pressed.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/jiantou_pressed.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/atools.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/atools.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_blue.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_blue.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/sysoptimize.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/sysoptimize.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/unlock.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/unlock.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/next.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/next.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/luncher_bg.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/luncher_bg.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/taskmanager.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/taskmanager.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_white.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_white.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_full_open_on_phone.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_gray.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_gray.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/lock.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/lock.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/settings.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/taskmanager.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/taskmanager.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/sysoptimize.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/sysoptimize.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/unlock.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/unlock.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/settings.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/callmsgsafe.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/callmsgsafe.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_full_open_on_phone.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_full_open_on_phone.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/main_clean_icon.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/main_clean_icon.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_orange.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_orange.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png",
@@ -320,12 +88,16 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/callmsgsafe.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/trojan.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/trojan.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_green.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_green.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/atools.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/atools.png"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/lock.png",
@@ -336,20 +108,24 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/netmanager.png",
@@ -368,12 +144,20 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/unlock.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/unlock.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/safe.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/safe.png"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/next.png"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/taskmanager.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/taskmanager.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png",
@@ -388,52 +172,36 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/call_locate_white.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/netmanager.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/netmanager.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/app.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/app.png"
-    },
-    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/luncher_bg.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/luncher_bg.png"
     },
     {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/phone.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/drawable-hdpi/phone.png"
-    },
-    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/previous.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/drawable-hdpi/previous.png"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/call_locate_blue.png",
@@ -442,6 +210,10 @@
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png",

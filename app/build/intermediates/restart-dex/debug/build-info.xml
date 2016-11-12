@@ -5,32 +5,52 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="15787827718748"
-    token="1288573689375215796"
+    timestamp="28919195829228"
+    token="-1507474476533469455"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1095" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="195" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
+
+    <artifact
+        location="/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="15444095025307"
+        timestamp="25939842758442"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Volumes/靳宁宁/MobileSafe/app/build/outputs/apk/app-debug.apk"
+            location="/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="15787827718748"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="28919195829228"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
 
 </instant-run>

@@ -8,7 +8,7 @@ import java.io.InputStream;
 public class StreamTools {
 	/**
 	 * @param is 输入流
-	 * @return String 返回的字符串
+	 * @return String 返回流中当的字符串
 	 * @throws IOException 
 	 */
 	public static String readFromStream(InputStream is) throws IOException{
@@ -23,4 +23,6 @@ public class StreamTools {
 		baos.close();
 		return result;
 	}
+
+
 }

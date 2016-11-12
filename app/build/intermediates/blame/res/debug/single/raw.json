@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/raw/ylzs.mp3",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/raw/ylzs.mp3"
-    },
-    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/raw/ylzs.mp3",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/raw/ylzs.mp3"
     }

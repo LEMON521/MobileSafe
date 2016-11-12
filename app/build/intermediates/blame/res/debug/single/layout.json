@@ -1,11 +1,23 @@
 [
     {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_tti.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_tti.xml"
+    },
+    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_black.xml",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_black.xml"
     },
     {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_ttc.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_ttc.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep3.xml",
@@ -14,18 +26,6 @@
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/dialog_setpassword.xml",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/dialog_setpassword.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep4.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_safesetstep4.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_black.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_black.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_simple_lockscreen.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_simple_lockscreen.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_selectcontact.xml",
@@ -44,90 +44,6 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools_changeposition.xml"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/home_gv_list_items.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/home_gv_list_items.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_teebb.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/customwidget_teebb.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_home.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/dialog_setpassword.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/dialog_setpassword.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep1.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safesetstep1.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_selectcontact_item.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_selectcontact_item.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_advancetools.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep4.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safesetstep4.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_selectcontact_item.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_selectcontact_item.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safe.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safe.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep1.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_safesetstep1.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_tti.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_tti.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_setting.xml"
-    },
-    {
-        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_ttc.xml",
-        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/customwidget_ttc.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools_queryaddress.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_advancetools_queryaddress.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools_changeposition.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_advancetools_changeposition.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep2.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_safesetstep2.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_setting.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_tti.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/customwidget_tti.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/black_lv_blacknum_items.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/black_lv_blacknum_items.xml"
-    },
-    {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep2.xml",
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safesetstep2.xml"
     },
@@ -140,8 +56,8 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools_queryaddress.xml"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_ttc.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/customwidget_ttc.xml"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_advancetools.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_advancetools.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_simple_lockscreen.xml",
@@ -152,24 +68,20 @@
         "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/black_lv_blacknum_items.xml"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep3.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_safesetstep3.xml"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep1.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safesetstep1.xml"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/customs_toast_showaddress.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/customs_toast_showaddress.xml"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_selectcontact_item.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_selectcontact_item.xml"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safe.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_safe.xml"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safesetstep4.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safesetstep4.xml"
     },
     {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_splash.xml"
-    },
-    {
-        "merged": "/Volumes/靳宁宁/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_selectcontact.xml",
-        "source": "/Volumes/靳宁宁/MobileSafe/app/src/main/res/layout/activity_selectcontact.xml"
+        "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/activity_safe.xml",
+        "source": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/src/main/res/layout/activity_safe.xml"
     },
     {
         "merged": "/Users/lemon/AndroidStudioWorkSpace/MobileSafe/app/build/intermediates/res/merged/debug/layout/customwidget_teebb.xml",

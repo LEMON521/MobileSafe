@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_appmanamger_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#8066ff00"
+        android:gravity="center"
+        android:text="应用管理"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -94,4 +94,28 @@ public class BlackNumberDao {
         }
         return blacks;
     }
+
+
+    /**
+     * 分批查询黑名单
+     *
+     * @param offset 从哪一条加载数据
+     * @return HashMap<String,String>---<联系人,模式>
+     */
+    public /*ArrayList<HashMap<String,String>>*/List<BlackNumberBean> queryiInBatchesBlackNum(String offset) {
+        db = helper.getReadableDatabase();
+        Cursor cursor = db.rawQuery("select number ,mode from blacknumber limit 20 offset ?", new String[]{offset});
+       /* ArrayList al = new ArrayList();*/
+        List<BlackNumberBean> blacks = new ArrayList<BlackNumberBean>();
+        while (cursor.moveToNext()) {
+            //cursor.getColumnName(cursor.getColumnIndex("_id"));
+            BlackNumberBean black = new BlackNumberBean();
+            String number = cursor.getString(cursor.getColumnIndex("number"));
+            black.setNumber(number);
+            String mode = cursor.getString(cursor.getColumnIndex("mode"));
+            black.setMode(mode);
+            blacks.add(black);
+        }
+        return blacks;
+    }
 }

@@ -34,10 +34,10 @@ public class BootCompeledService extends BroadcastReceiver {
         tm = (TelephonyManager) context.getSystemService(Context.TELEPHONY_SERVICE);
 
         //1.得到之前的sim卡信息
-        String saveSim = sp.getString("simNum","")+"这里仅仅测试用";
+        String saveSim = sp.getString("simNum","")+"5556";
 
         //2.得到当前手机的sim卡信息
-        String currentSim = tm.getLine1Number();
+        String currentSim = tm.getLine1Number()+"5557";
 
         //首先判断是否为空,为空的情况:我们安装了软件,但是安装之后没有打开或者打开了没有设置安全号码
         if (saveSim!="") {

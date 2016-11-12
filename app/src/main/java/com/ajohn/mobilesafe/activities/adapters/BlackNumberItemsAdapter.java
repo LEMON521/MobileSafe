@@ -14,7 +14,6 @@ import com.ajohn.mobilesafe.db.dao.NumberAddressQueryDao;
 import java.util.ArrayList;
 
 
-
 /**
  * 黑名单ListView的填充器
  * Created by John on 2016/11/7.
@@ -22,33 +21,40 @@ import java.util.ArrayList;
 
 public class BlackNumberItemsAdapter extends BaseAdapter {
     private Context context;
+    BlackNumberDao blackNumberDao;
     private BlackNumberBean blacker;
-    private ArrayList<BlackNumberBean> blackers;
-    public BlackNumberItemsAdapter(Context context){
+    private ArrayList<BlackNumberBean> blackers = null;
+
+    public BlackNumberItemsAdapter(Context context) {
         this.context = context;
-        BlackNumberDao blackNumberDao = new BlackNumberDao(context);
-        blackers = (ArrayList<BlackNumberBean>) blackNumberDao.queryAllBlackNum();
+        blackNumberDao = new BlackNumberDao(context);
+        getPartBlakers(getCount());
     }
+
+    public void getPartBlakers(int offset) {
+
+        blackers = (ArrayList<BlackNumberBean>) blackNumberDao.queryiInBatchesBlackNum(String.valueOf(offset + 20));
+    }
+
     /**
+     *
      */
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         View view;
         ViewHolder viewHolder;
-        if (convertView!=null) {
+        if (convertView != null) {
             view = convertView;
             viewHolder = (ViewHolder) view.getTag();
-        }else {
+        } else {
             viewHolder = new ViewHolder();
-            view = View.inflate(context, R.layout.black_lv_blacknum_items,null);
+            view = View.inflate(context, R.layout.black_lv_blacknum_items, null);
             viewHolder.tv_lv_black_name = (TextView) view.findViewById(R.id.tv_lv_black_name);
             viewHolder.tv_lv_black_number = (TextView) view.findViewById(R.id.tv_lv_black_number);
             viewHolder.tv_lv_black_mode = (TextView) view.findViewById(R.id.tv_lv_black_mode);
             viewHolder.tv_lv_black_address = (TextView) view.findViewById(R.id.tv_lv_black_address);
             view.setTag(viewHolder);
         }
-
-
 
 
         blacker = blackers.get(position);
@@ -61,11 +67,19 @@ public class BlackNumberItemsAdapter extends BaseAdapter {
 
         return view;
     }
+
+
     /**
+     * 获取个数
      */
     @Override
     public int getCount() {
-        return blackers.size();
+        return blackers == null ? 0 : blackers.size();
+    }
+
+    @Override
+    public boolean hasStableIds() {
+        return super.hasStableIds();
     }
 
     /**
@@ -82,22 +96,25 @@ public class BlackNumberItemsAdapter extends BaseAdapter {
         return 0;
     }
 
+    //获取到黑名单联系人数据控中到联系人
 
-    private String getName(String number){
+    private String getName(String number) {
         return "未知号码";
     }
-    private String getAddress(String number){
+
+    private String getAddress(String number) {
         return NumberAddressQueryDao.getAddess(number);
     }
 
     /**
      * 获取拦截模式
+     *
      * @param mode 0,1,2
-     * @return  0-电话,1-短信,2-电话+短信
+     * @return 0-电话,1-短信,2-电话+短信
      */
-    private String getPositionMode(String mode){
+    private String getPositionMode(String mode) {
         String result = "";
-        switch (Integer.valueOf(mode)){
+        switch (Integer.valueOf(mode)) {
             case 0:
                 result = "拦截模式:电话";
                 break;
@@ -111,10 +128,10 @@ public class BlackNumberItemsAdapter extends BaseAdapter {
         return result;
     }
 
-    static class ViewHolder{
-        TextView tv_lv_black_name ;
-        TextView tv_lv_black_number ;
-        TextView tv_lv_black_mode ;
-        TextView tv_lv_black_address ;
+    static class ViewHolder {
+        TextView tv_lv_black_name;
+        TextView tv_lv_black_number;
+        TextView tv_lv_black_mode;
+        TextView tv_lv_black_address;
     }
 }

@@ -36,6 +36,8 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <!--允许应用程序监听去电号码。-->
     <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <!--读取短信权限-->
+    <uses-permission android:name="android.permission.READ_SMS" />
 
 
     <application
@@ -75,10 +77,12 @@
 
         <!--************************************************************************************-->
         <!--通讯卫士页面-->
-        <activity android:name="com.ajohn.mobilesafe.activities.conmunicationactivities.ManageBlackNumberActivity"
-            android:theme="@android:style/Theme.Dialog"
-            />
-
+        <activity
+            android:name="com.ajohn.mobilesafe.activities.conmunicationactivities.ManageBlackNumberActivity"
+            android:theme="@android:style/Theme.Dialog" />
+        <!--************************************************************************************-->
+        <!--应用／程序管理页面-->
+        <activity android:name=".activities.appmanageractivity.AppManagerActivity" />
 
         <!--************************************************************************************-->
         <!--高级工具页面-->
@@ -118,9 +122,9 @@
         <!--TODO 去电广播接收  我们已经通过代码注册了,所以清单文件不必再注册-->
         <!--电话监听接收者-->
         <!--<receiver android:name="com.ajohn.mobilesafe.receiver.TelephonyReceiver">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="android.intent.action.NEW_OUTGOING_CALL" />-->
-            <!--</intent-filter>-->
+        <!--<intent-filter>-->
+        <!--<action android:name="android.intent.action.NEW_OUTGOING_CALL" />-->
+        <!--</intent-filter>-->
         <!--</receiver>-->
 
 
@@ -142,8 +146,6 @@
 
         <!--来电-->
         <service android:name=".service.CallingStatusService" />
-
-
 
 
     </application>
